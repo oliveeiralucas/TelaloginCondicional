@@ -1,4 +1,4 @@
-# telaL&C
+# Desafio Front 
 
 > Esse é um projeto desenvolvido para testar um desafio de front end consiste em realizar uma tela de login e verificar certas informações. 
 
